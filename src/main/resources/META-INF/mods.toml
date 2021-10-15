@@ -4,8 +4,8 @@ license="All rights reserved"
 [[mods]]
 modId="magitech"
 version="${file.jarVersion}"
-displayName="Space Mod"
-logoFile="space_mod.png"
+displayName="Empirical Arcana"
+logoFile="magitech.png"
 credits="Credits go here"
 authors="Authors go here"
 description=''' '''

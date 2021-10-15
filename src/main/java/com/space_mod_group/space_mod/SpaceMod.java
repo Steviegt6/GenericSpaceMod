@@ -15,7 +15,7 @@ import static com.space_mod_group.space_mod.SpaceMod.MOD_ID;
 @Mod(MOD_ID)
 public class SpaceMod
 {
-    public static final String MOD_ID = "space_mod";
+    public static final String MOD_ID = "magitech";
     public static final Logger LOGGER = LogManager.getLogger();
 
     public SpaceMod()

@@ -2,7 +2,7 @@ modLoader="javafml"
 loaderVersion="[36,)"
 license="All rights reserved"
 [[mods]]
-modId="space_mod"
+modId="magitech"
 version="${file.jarVersion}"
 displayName="Space Mod"
 logoFile="space_mod.png"
